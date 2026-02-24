@@ -67,7 +67,7 @@
 ## 🚀 How To Run
 
 ```bash
-git clone 
+git clone https://github.com/SanthoshGit002/Stock-Expiry-MS.git
 cd Stock-Expiry-MS
 pip install -r requirements.txt
 python app.py
